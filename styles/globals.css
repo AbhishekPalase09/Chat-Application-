@@ -1,0 +1,7 @@
+/* styles/globals.css - Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small custom tweaks */
+html, body, #__next { height: 100%; }
